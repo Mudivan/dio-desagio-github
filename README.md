@@ -2,8 +2,6 @@
 
 <p>Repositório Criado Para o Desafio de Projetos</p>
 
-## Desafio de Projeto sobre Git/GitHub
 
-## Links Úteis
+## Exercícios de HTML
 
-[Guia de Markdown](https://www.markdownguide.org/)
